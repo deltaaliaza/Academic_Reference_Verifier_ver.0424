@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Academic Reference Verifier_0424",
+  "description": "Verify pasted academic references against external scholarly metadata sources.",
+  "requestFramePermissions": []
+}
